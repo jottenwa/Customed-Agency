@@ -27,6 +27,12 @@ en: &DEFAULT_EN
       - title: "Data Anonymization"
         desc: "Design solutions for improving data masking techniques."
         icon: fas fa-laptop
+      - title: "Privacy Engineer"
+        desc: "Manage privacy projects and communications across multiple teams"
+        icon: fas fa-laptop
+      - title: "Full Service Consulting"
+        desc: "Manage privacy projects and communications across multiple teams"
+        icon: fas fa-laptop
 #      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
 #        desc: "Your description here, full **Markdown** support"
 #        icon: fab fa-markdown
